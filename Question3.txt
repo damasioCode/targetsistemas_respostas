@@ -1,0 +1,23 @@
+a) 1, 3, 5, 7, ___
+Neste padrão, cada número é o resultado do anterior somado a 2.
+Assim, o próximo número será 7 + 2 = 9.
+
+b) 2, 4, 8, 16, 32, 64, ____
+Neste padrão, cada número é o resultado do anterior multiplicado por 2.
+Assim, o próximo número será 64 * 2 = 128.
+
+c) 0, 1, 4, 9, 16, 25, 36, ____
+Neste padrão, cada número é o resultado do quadrado do seu índice na sequência.
+Assim, o próximo número será 49 (pois 7^2 = 49).
+
+d) 4, 16, 36, 64, ____
+Neste padrão, cada número é o resultado do quadrado do seu índice na sequência, multiplicado por 4.
+Assim, o próximo número será 100 (pois 10^2 * 4 = 100).
+
+e) 1, 1, 2, 3, 5, 8, ____
+Neste padrão, cada número é a soma dos dois números anteriores.
+Assim, o próximo número será 8 + 5 = 13.
+
+f) 2, 10, 12, 16, 17, 18, 19, ____
+Neste padrão, parece haver uma variação que não segue uma lógica clara. No entanto, observando atentamente, parece ser uma sequência em que os números estão aumentando em valores menores que os anteriores.
+Assim, o próximo número pode ser 20, pois segue a tendência crescente, porém com incremento menor que nas iterações anteriores.
